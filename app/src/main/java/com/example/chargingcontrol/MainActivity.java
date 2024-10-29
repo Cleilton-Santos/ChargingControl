@@ -1,5 +1,6 @@
 package com.example.chargingcontrol;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
@@ -21,4 +22,6 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
+    loginUsuario Cleilton = new loginUsuario("cleilton14s@gmail.com", "cleilton18");
+
 }
