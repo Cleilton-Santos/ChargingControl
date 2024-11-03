@@ -14,11 +14,11 @@ public class loginUsuario {
         this.telefone = telefone;
     }
 
-    void verificarUsuario(){
+    /*void verificarUsuario(){
         if ( ){
             System.out.println("Seja Bem Vindo");
         }else {
             System.out.println("Nao cadastrado no banco de dados");
         }
-    }
+    }*/
 }
