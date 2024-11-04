@@ -4,6 +4,7 @@ public class loginUsuario {
     String email;
     String senha;
     String telefone;
+    String[] motoristas = {"Cleilton", "Ubiratan", "Edson"};
 
 
     loginUsuario(String email, String senha){
@@ -15,7 +16,7 @@ public class loginUsuario {
     }
 
     /*void verificarUsuario(){
-        if ( ){
+        if (){
             System.out.println("Seja Bem Vindo");
         }else {
             System.out.println("Nao cadastrado no banco de dados");
